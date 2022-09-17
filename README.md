@@ -7,8 +7,8 @@
 </h2>
 
 <h3 align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" height="30" align="center"/> Ayushi |
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" height="30" align="center"/> Learner | 
+<img src="https://media.giphy.com/media/GXZVx7kiFQ1IuZpB8o/giphy.gif" width="30" height="30" align="center"/> DSA |
+<img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30" height="30" align="center"/> Learner | 
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> India
 </h3>
 
