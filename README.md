@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I am Ayushi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="60" height="60"  align="center"/>
+  Hello, <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="60" height="60"  align="center"/> I am Ayushi 
 </h1>
 
 <h2 align="center">
