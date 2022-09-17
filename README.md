@@ -2,6 +2,10 @@
   Hello, I am Ayushi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="60" height="60"  align="center"/>
 </h1>
 
+<h2 align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480px" height="270px" align="center"/>
+</h2>
+
 <h3 align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" height="30" align="center"/> Ayushi |
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" height="30" align="center"/> Learner | 
